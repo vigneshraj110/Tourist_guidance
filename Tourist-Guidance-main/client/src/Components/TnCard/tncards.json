@@ -1,0 +1,50 @@
+[
+  {
+    "place_name": "Mahabalipuram",
+    "location": "Kanchipuram, Tamil Nadu",
+    "image_url": "https://www.tamilnadutourism.tn.gov.in/img/pages/mobile/mamallapuram-shore-temple-1653384265_2ee80b097acb596596e0.webp",
+    "description": "Mahabalipuram is a UNESCO World Heritage Site known for its rock-cut temples and shore temple, among other monuments. It was a major port city during the 7th and 8th centuries and is considered one of the oldest cultural landmarks in South India."
+  },
+  {
+    "place_name": "Kodaikanal",
+    "location": "Dindigul, Tamil Nadu",
+    "image_url": "https://static.toiimg.com/photo/msid-91933435,width-96,height-65.cms",
+    "description": "Kodaikanal is a popular hill station located in the Western Ghats of Tamil Nadu. It is known for its picturesque landscapes, tranquil lakes, and rich flora and fauna. The town offers a perfect escape from the hustle and bustle of city life."
+  },
+  {
+    "place_name": "Rameshwaram",
+    "location": "Ramanathapuram, Tamil Nadu",
+    "image_url": "https://www.tripbibo.com/blog/wp-content/uploads/2021/01/The-9-Most-Elegant-Places-To-Visit-In-Rameshwaram.jpg",
+    "description": "Rameshwaram is a holy city located on an island off the coast of Tamil Nadu. It is considered one of the four sacred shrines in India and is associated with Lord Rama, one of the avatars of Lord Vishnu. The city is famous for its Ramanathaswamy Temple and the bridge connecting the mainland to the island."
+  },
+  {
+    "place_name": "Madurai",
+    "location": "Madurai, Tamil Nadu",
+    "image_url": "https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/madurai-1654767285_369d2c83d497af27914b.webp",
+    "description": "Madurai is one of the oldest cities in India and is known for its rich cultural heritage. The city is home to the famous Meenakshi Temple, a historic Hindu temple dedicated to the goddess Parvati. Madurai is also known for its lively street food scene, jasmine flower market, and vibrant festivals."
+  },
+  {
+    "place_name": "Yercaud",
+    "location": "Salem, Tamil Nadu",
+    "image_url": "https://ancientterminus.com/wp-content/uploads/2022/08/Yercaud-Feature-Img.webp",
+    "description": "Yercaud is a hill station located in the Eastern Ghats of Tamil Nadu. It is known for its lush green forests, coffee and spice plantations, and scenic views of the surrounding hills. The town is also home to several trekking trails, waterfalls, and temples."
+  },
+  {
+    "place_name": "Tiruchirappalli",
+    "location": "Tiruchirappalli, Tamil Nadu",
+    "image_url": "https://www.holidify.com/images/cmsuploads/compressed/Grand_Anaicut_20170521135150.jpg",
+    "description": "Tiruchirappalli, also known as Trichy, is a historic city located in central Tamil Nadu. It is known for its rich cultural heritage and historical monuments, including the Rock Fort Temple, Sri Ranganathaswamy Temple, and Jambukeswara Temple. The city is also a major center for education and industry."
+  },
+  {
+    "place_name": "Kanyakumari",
+    "location": "Kanyakumari, Tamil Nadu",
+    "image_url": "https://live.staticflickr.com/403/18843217323_d0df987dbf_b.jpg",
+    "description": "Kanyakumari is a coastal town located at the southernmost tip of India. It is known for its scenic beauty, including the confluence of the Arabian Sea, the Indian Ocean, and the Bay of Bengal. The town is also famous for its Vivekananda Rock Memorial and the Kanyakumari Temple."
+  },
+  {
+    "place_name": "Ooty",
+    "location": "The Nilgiris, Tamil Nadu",
+    "image_url": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/09/Munnar.webp",
+    "description": "Ooty, also known as Udhagamandalam, is a popular hill station located in the Nilgiri Hills of Tamil Nadu. It is known for its scenic landscapes, including rolling hills, tea plantations, and serene lakes. The town is also home to several historic buildings, botanical gardens, and trekking trails."
+  }
+]

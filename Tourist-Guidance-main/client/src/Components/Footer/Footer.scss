@@ -1,0 +1,92 @@
+.footer-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.comp-1 {
+  display: flex;
+  padding-right: 180px;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-bottom: 30px;
+  width: 150px;
+  flex-direction: column;
+  h1 {
+    font-size: medium;
+    padding: 10px 0px;
+  }
+  p {
+    color: dimgrey;
+  }
+  .fb {
+    padding: 10px 0px;
+  }
+}
+.comp-2 {
+  padding-right: 100px;
+  h1 {
+    font-size: medium;
+    padding: 10px 0px;
+    color: rgb(59, 58, 58);
+  }
+  p {
+    color: dimgrey;
+  }
+  .comp-home {
+    padding-bottom: 5px;
+  }
+}
+.comp-3 {
+  padding-right: 100px;
+  h1 {
+    font-size: medium;
+    padding: 10px 0px;
+    color: rgb(59, 58, 58);
+  }
+  p {
+    color: dimgrey;
+  }
+  .comp-terms {
+    padding-bottom: 5px;
+  }
+}
+.comp-4 {
+  padding-right: 100px;
+  h1 {
+    font-size: medium;
+    padding: 10px 0px;
+    color: rgb(59, 58, 58);
+  }
+  p {
+    color: dimgrey;
+  }
+  .comp-plans {
+    padding-bottom: 5px;
+  }
+}
+.social-media {
+  padding-right: 100px;
+  h1 {
+    font-size: medium;
+    padding: 10px 0px;
+    color: rgb(59, 58, 58);
+  }
+  p {
+    color: dimgrey;
+  }
+}
+.Copyright {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  .msg {
+    text-align: center;
+    font-size: small;
+  }
+  img {
+    height: 10px;
+    width: 10px;
+  }
+  * {
+    color: rgb(159, 159, 159);
+  }
+}

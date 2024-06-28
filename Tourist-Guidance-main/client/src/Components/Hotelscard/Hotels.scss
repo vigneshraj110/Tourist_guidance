@@ -1,0 +1,26 @@
+#hotelContainer {
+  width: 240px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 18px;
+  .hotelimage {
+    width: 240px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 24px;
+  }
+  .hotelName {
+    text-align: center;
+    width: 240px;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 18px;
+  }
+  .distance {
+    font-size: 14px;
+    padding-bottom: 18px;
+  }
+  .rating {
+    font-size: 14px;
+    padding-bottom: 18px;
+  }
+}

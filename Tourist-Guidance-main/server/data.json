@@ -1,0 +1,698 @@
+[
+  {
+    "Place Name": "Bali Beach",
+    "Location": "Bali Beach , Indonesia",
+    "Description": "Bali Beach is a stunning stretch of golden sand and crystal-clear water. Surrounded by lush tropical trees, it's a perfect place to soak up the sun and enjoy a variety of water sports.",
+    "Image": "https://images.unsplash.com/photo-1559305289-4c31700ba9cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmFsaSUyMGJlYWNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "Ratings": 4.5,
+    "Category": "Beach",
+    "Latitude": -8.409518,
+    "Longitude": 115.188919,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Bali Paradise Hotel",
+        "Latitude": -8.408618,
+        "Longitude": 115.190169,
+        "Distance to Place": "0.7 km"
+      },
+      {
+        "Hotel Name": "Beachfront Hotel & Resort",
+        "Latitude": -8.409724,
+        "Longitude": 115.187596,
+        "Distance to Place": "0.6 km"
+      },
+      {
+        "Hotel Name": "The Ocean View Inn",
+        "Latitude": -8.408183,
+        "Longitude": 115.191358,
+        "Distance to Place": "0.9 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "Eiffel Tower",
+    "Location": "Paris, France",
+    "Description": "The Eiffel Tower is a famous landmark located in Paris, France. Standing at 324 meters tall, it offers breathtaking views of the city and is a must-visit for anyone traveling to Paris.",
+    "Image": "https://images.unsplash.com/photo-1473205957495-db0d2dcb2a77?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGVmZmlsZSUyMHRvd2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+    "Ratings": 4.8,
+    "Category": "Tower",
+    "Latitude": 48.85837,
+    "Longitude": 2.294481,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Le Meurice Hotel",
+        "Latitude": 48.864564,
+        "Longitude": 2.327173,
+        "Distance to Place": "1.3 km"
+      },
+      {
+        "Hotel Name": "Hôtel de Crillon",
+        "Latitude": 48.863755,
+        "Longitude": 2.317756,
+        "Distance to Place": " 0.9 km"
+      },
+      {
+        "Hotel Name": "Hotel Le Bristol Paris",
+        "Latitude": 48.863879,
+        "Longitude": 2.326839,
+        "Distance to Place": "1.2 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "Mount Fuji",
+    "Location": "Honshu, Japan",
+    "Description": "Mount Fuji is a stunning active volcano located in Japan. It's the highest mountain in Japan and a symbol of Japanese culture. Climbing to the summit for sunrise is a popular activity among visitors.",
+    "Image": "https://images.unsplash.com/photo-1578637387939-43c525550085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bnQlMjBmdWppfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+    "Ratings": 4.9,
+    "Category": "Hills",
+    "Latitude": 35.360556,
+    "Longitude": 138.731389,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Mt. Fuji Grand Hotel",
+        "Latitude": 35.358056,
+        "Longitude": 138.738333,
+        "Distance to Place": "3.5 km"
+      },
+      {
+        "Hotel Name": "Mount Fuji View Lodge",
+        "Latitude": 35.364167,
+        "Longitude": 138.731667,
+        "Distance to Place": "1.2 km"
+      },
+      {
+        "Hotel Name": "The Summit Inn",
+        "Latitude": 35.358333,
+        "Longitude": 138.724167,
+        "Distance to Place": "2.6 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "The Colosseum",
+    "Location": "Roma, Italy",
+    "Description": "The Colosseum is an iconic structure located in Rome, Italy. It was built over 2000 years ago and was used to host gladiatorial contests and other public spectacles. Today, it's a popular tourist attraction and a symbol of the Roman Empire.",
+    "Image": "https://plus.unsplash.com/premium_photo-1675975635390-6ca4d5c056b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8VGhlJTIwQ29sb3NzZXVtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+    "Ratings": 4.6,
+    "Category": "Tower",
+    "Latitude": 41.89021,
+    "Longitude": 12.49223,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Colosseum Palace Hotel",
+        "Latitude": 41.89221,
+        "Longitude": 12.48717,
+        "Distance to Place": "1.3 km"
+      },
+      {
+        "Hotel Name": "Forum View Inn",
+        "Latitude": 41.88797,
+        "Longitude": 12.49336,
+        "Distance to Place": "0.7 km"
+      },
+      {
+        "Hotel Name": "Empire Guest House",
+        "Latitude": 41.89461,
+        "Longitude": 12.48998,
+        "Distance to Place": "1.9 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "Mount Everest",
+    "Location": "Nepal",
+    "Description": "Mount Everest is the highest mountain in the world, located in the Mahalangur range of the Himalayas. The mountain is a popular destination for mountaineers and climbers, who come from all over the world to attempt to reach its summit.",
+    "Image": "https://images.unsplash.com/photo-1589182373726-e4f658ab50f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW91bnQlMjBldmVyZXN0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+    "Ratings": 4.9,
+    "Category": "Mountain",
+    "Latitude": 27.988056,
+    "Longitude": 86.925278,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Everest Base Camp Hotel",
+        "Latitude": 27.987056,
+        "Longitude": 86.924278,
+        "Distance to Place": "7.0 km"
+      },
+      {
+        "Hotel Name": "Khumbu Glacier Hotel",
+        "Latitude": 27.986056,
+        "Longitude": 86.923278,
+        "Distance to Place": "8.0 km"
+      },
+      {
+        "Hotel Name": "Lhotse Hotel",
+        "Latitude": 27.985056,
+        "Longitude": 86.922278,
+        "Distance to Place": "9.0 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "Sydney Opera House",
+    "Location": "Sydney, Australia",
+    "Description": "The Sydney Opera House is an iconic performing arts center located in Sydney, Australia. The building is famous for its unique architecture and is one of the most recognizable landmarks in Australia.",
+    "Image": "https://images.unsplash.com/photo-1540448051910-09cfadd5df61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3lkbmV5JTIwb3BlcmElMjBob3VzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "Ratings": 4.6,
+    "Category": "Building",
+    "Latitude": -33.8599358,
+    "Longitude": 151.2150198,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Sydney Harbour Marriott Hotel",
+        "Latitude": -33.8619358,
+        "Longitude": 151.2170198,
+        "Distance to Place": "1.5 km"
+      },
+      {
+        "Hotel Name": "The Park Hyatt Sydney",
+        "Latitude": -33.8629358,
+        "Longitude": 151.2160198,
+        "Distance to Place": "2.0 km"
+      },
+      {
+        "Hotel Name": "InterContinental Sydney",
+        "Latitude": -33.8639358,
+        "Longitude": 151.2150198,
+        "Distance to Place": "3.0 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "Niagara Falls",
+    "Location": "Ontario, Canada",
+    "Description": "Niagara Falls is a group of three waterfalls located on the Niagara River on the border of Ontario, Canada, and New York, United States. It is one of the most popular tourist destinations in North America, attracting millions of visitors every year.",
+    "Image": "https://images.unsplash.com/photo-1489447068241-b3490214e879?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bmlhZ2FyYSUyMGZhbGxzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+    "Ratings": 4.7,
+    "Category": "Waterfall",
+    "Latitude": 43.0844,
+    "Longitude": -79.0753,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Tower Hotel",
+        "Latitude": 43.0834,
+        "Longitude": -79.0743,
+        "Distance to Place": "1.0 km"
+      },
+      {
+        "Hotel Name": "The Oakes Hotel Overlooking the Falls",
+        "Latitude": 43.0854,
+        "Longitude": -79.0773,
+        "Distance to Place": "2.0 km"
+      },
+      {
+        "Hotel Name": "Embassy Suites by Hilton Niagara Falls Fallsview",
+        "Latitude": 43.0864,
+        "Longitude": -79.0783,
+        "Distance to Place": "3.0 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "The Great Wall of China",
+    "Location": "Huairou,China",
+    "Description": "The Great Wall of China is a series of fortifications made of brick, tamped earth, stone, and other materials, generally built along an east-to-west line across the northern borders of China. It is one of the most popular tourist destinations in China, attracting millions of visitors every year.",
+    "Image": "https://images.unsplash.com/photo-1571822325911-c01620a65e86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dGhlJTIwZ3JlYXQlMjB3YWxsJTIwb2YlMjBjaGluYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "Ratings": 4.9,
+    "Category": "Wall",
+    "Latitude": 40.4319,
+    "Longitude": 116.5704,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Great Wall Sheraton Hotel",
+        "Latitude": 40.4329,
+        "Longitude": 116.5714,
+        "Distance to Place": "1.0 km"
+      },
+      {
+        "Hotel Name": "The Great Wall Hotel",
+        "Latitude": 40.4339,
+        "Longitude": 116.5724,
+        "Distance to Place": "2.0 km"
+      },
+      {
+        "Hotel Name": "The Great Wall Marriott Hotel",
+        "Latitude": 40.4349,
+        "Longitude": 116.5734,
+        "Distance to Place": "3.0 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "Santorini",
+    "Location": "Santorini Islands",
+    "Description": "Santorini is a volcanic island in the Cyclades group of the Greek islands. It is located in the Aegean Sea and is known for its stunning white-washed buildings, blue-domed churches, and breathtaking views of the caldera and the Aegean Sea. Santorini is a popular tourist destination, attracting millions of visitors every year.",
+    "Image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2FudG9yaW5pfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+    "Ratings": 4.7,
+    "Category": "Island",
+    "Latitude": 36.3932,
+    "Longitude": 25.4615,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Santorini Palace Hotel",
+        "Latitude": 36.3942,
+        "Longitude": 25.4625,
+        "Distance to Place": "1.0 km"
+      },
+      {
+        "Hotel Name": "The Aegean Hotel",
+        "Latitude": 36.3952,
+        "Longitude": 25.4635,
+        "Distance to Place": "2.0 km"
+      },
+      {
+        "Hotel Name": "The Caldera Hotel",
+        "Latitude": 36.3962,
+        "Longitude": 25.4645,
+        "Distance to Place": "3.0 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "The Great Barrier Reef",
+    "Description": "The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea, off the coast of Australia. It is comprised of over 2,900 individual reefs and 900 islands, stretching over 2,300 km. The Great Barrier Reef is a popular tourist destination and is recognized as one of the seven natural wonders of the world.",
+    "Image": "https://images.unsplash.com/photo-1573378617548-c82dd01a3fb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8dGhlJTIwZ3JlYXQlMjBiYXJyaWVyJTIwcmVlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "Ratings": 4.9,
+    "Category": "Coral Reef",
+    "Location": "Queensland, Australia",
+    "Latitude": -18.2862,
+    "Longitude": 147.855,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Reef Hotel",
+        "Latitude": -18.2872,
+        "Longitude": 147.856,
+        "Distance to Place": "1.0 km"
+      },
+      {
+        "Hotel Name": "The Coral Sea Hotel",
+        "Latitude": -18.2882,
+        "Longitude": 147.857,
+        "Distance to Place": "2.0 km"
+      },
+      {
+        "Hotel Name": "The Barrier Hotel",
+        "Latitude": -18.2892,
+        "Longitude": 147.858,
+        "Distance to Place": "3.0 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "Taj Mahal",
+    "Description": "Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra. It was built by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal and is widely considered to be one of the most beautiful buildings in the world.",
+    "Ratings": 4.7,
+    "Image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dGFqJTIwbWFoYWx8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Mausoleum",
+    "Location": "Agra, Uttar Pradesh, India",
+    "Latitude": 27.175,
+    "Longitude": 78.0422,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Taj Palace Hotel",
+        "Latitude": 27.176,
+        "Longitude": 78.0432,
+        "Distance to Place": "1.0 km"
+      },
+      {
+        "Hotel Name": "The Mughal Hotel",
+        "Latitude": 27.177,
+        "Longitude": 78.0442,
+        "Distance to Place": "2.0 km"
+      },
+      {
+        "Hotel Name": "The Agra Hotel",
+        "Latitude": 27.178,
+        "Longitude": 78.0452,
+        "Distance to Place": "3.0 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "Amber Fort",
+    "Description": "Amber Fort is a fort located in Amer, Rajasthan, India. It was built by Raja Man Singh and is a popular tourist destination, attracting visitors with its beautiful architecture and rich history.",
+    "Ratings": 4.6,
+    "Image": "https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YW1iZXIlMjBmb3J0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Fort",
+    "Location": "Amer, Rajasthan, India",
+    "Latitude": 26.9896,
+    "Longitude": 75.818,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Amber Palace Hotel",
+        "Latitude": 26.9906,
+        "Longitude": 75.819,
+        "Distance to Place": "1.0 km"
+      },
+      {
+        "Hotel Name": "The Rajasthan Hotel",
+        "Latitude": 26.9916,
+        "Longitude": 75.82,
+        "Distance to Place": "2.0 km"
+      },
+      {
+        "Hotel Name": "The Man Singh Hotel",
+        "Latitude": 26.9926,
+        "Longitude": 75.821,
+        "Distance to Place": "3.0 km"
+      }
+    ]
+  },
+  {
+    "Place Name": "Great Pyramid of Giza",
+    "Description": "The Great Pyramid of Giza is a massive ancient Egyptian pyramid located in Giza, Egypt. It is the oldest and largest of the three pyramids in the Giza Necropolis, and is considered one of the Seven Wonders of the Ancient World. The Great Pyramid is believed to have been built as a tomb for the Pharaoh Khufu and remains one of the most famous tourist attractions in Egypt.",
+    "Ratings": 4.8,
+    "Image": "https://images.unsplash.com/photo-1564554860010-304d58f6edb1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1026&q=80",
+    "Category": "Ancient Monument",
+    "Location": "Giza, Egypt",
+    "Latitude": 29.9792,
+    "Longitude": 31.1342,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Four Seasons Hotel Cairo at Nile Plaza",
+        "Distance to Place": "8.0 km",
+        "Latitude": 30.0485,
+        "Longitude": 31.2424
+      },
+      {
+        "Hotel Name": "The Nile Ritz-Carlton, Cairo",
+        "Distance to Place": "9.0 km",
+        "Latitude": 30.0459,
+        "Longitude": 31.2244
+      }
+    ]
+  },
+  {
+    "Place Name": "Red Fort",
+    "Description": "The Red Fort is a historic fort located in Old Delhi, India. It was built by the Mughal Emperor Shah Jahan in the mid-17th century and served as the main residence of the emperor for nearly 200 years. Today, the Red Fort is a popular tourist destination, offering a glimpse into the rich history and culture of India. Visitors can tour the fort's extensive grounds, including the Diwan-i-Aam and the Diwan-i-Khas, as well as the beautiful Moti Masjid.",
+    "Ratings": 4.5,
+    "Image": "https://images.unsplash.com/photo-1547300848-441153a7bf02?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cmVkJTIwZm9ydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Fort",
+    "Location": "Old Delhi, India",
+    "Latitude": 28.6562,
+    "Longitude": 77.241,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Imperial, New Delhi",
+        "Distance to Place": "3.0 km",
+        "Latitude": 28.6145,
+        "Longitude": 77.2115
+      },
+      {
+        "Hotel Name": "The Leela Palace New Delhi",
+        "Distance to Place": "2.5 km",
+        "Latitude": 28.5812,
+        "Longitude": 77.2108
+      }
+    ]
+  },
+  {
+    "Place Name": "Bondi Beach",
+    "Description": "Bondi Beach is a world-famous beach located in Sydney, Australia. Known for its golden sand and pristine waters, Bondi Beach is a popular destination for tourists and locals alike. Whether you're looking to sunbathe, swim, surf, or simply relax, Bondi Beach has something to offer everyone. With its vibrant atmosphere, lively cafes, and stunning coastal views, Bondi Beach is a must-visit for anyone visiting Sydney.",
+    "Ratings": 4.7,
+    "Image": "https://images.unsplash.com/photo-1584868138762-fcae9e7d55b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ym9uZGklMjBiZWFjaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Beach",
+    "Location": "Sydney, Australia",
+    "Latitude": -33.891475,
+    "Longitude": 151.276684,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Bondi Pavilion Hotel",
+        "Distance to Place": "0.5 km",
+        "Latitude": -33.891545,
+        "Longitude": 151.276469
+      },
+      {
+        "Hotel Name": "Bondi 38",
+        "Distance to Place": "0.7 km",
+        "Latitude": -33.891886,
+        "Longitude": 151.276926
+      }
+    ]
+  },
+  {
+    "Place Name": "Myrtos Beach",
+    "Description": "Myrtos Beach is a stunningly beautiful beach located in Kefalonia, Greece. With its crystal-clear waters, soft white sand, and breathtaking scenery, Myrtos Beach is considered one of the best beaches in Europe. Visitors can enjoy swimming, sunbathing, and exploring the nearby caves and cliffs. The beach is surrounded by lush greenery, offering plenty of opportunities for hiking and nature walks. Whether you're looking for a relaxing day at the beach or an adventure-filled vacation, Myrtos Beach is the perfect destination.",
+    "Ratings": 4.9,
+    "Image": "https://images.unsplash.com/photo-1658742758829-dab9a441b5c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8TXlydG9zJTIwQmVhY2h8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Beach",
+    "Location": "Kefalonia, Greece",
+    "Latitude": 38.12228,
+    "Longitude": 20.463312,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Luxury Myrtos Suites",
+        "Distance to Place": "1.0 km",
+        "Latitude": 38.118071,
+        "Longitude": 20.467088
+      },
+      {
+        "Hotel Name": "Myrtos Bay View Hotel",
+        "Distance to Place": "0.8 km",
+        "Latitude": 38.123472,
+        "Longitude": 20.463857
+      }
+    ]
+  },
+  {
+    "Place Name": "La Sagrada Familia",
+    "Description": "La Sagrada Familia is a famous church located in Barcelona, Spain. It was designed by the architect Antoni Gaudi and has been under construction for over 140 years. Despite this, the church remains one of the most popular tourist attractions in Barcelona, known for its unique and intricate architecture. Visitors can explore the church's stunning interior, including the Nativity Façade and the Passion Façade, as well as the crypt where Gaudi is buried.",
+    "Ratings": 4.8,
+    "Image": "https://images.unsplash.com/photo-1581211085718-1405201b753a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8TGElMjBTYWdyYWRhJTIwRmFtaWxpYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Cathedral",
+    "Location": "Barcelona, Spain",
+    "Latitude": 41.4036,
+    "Longitude": 2.1744,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Grand Hotel Central",
+        "Distance to Place": "1.5 km",
+        "Latitude": 41.3847,
+        "Longitude": 2.1779
+      },
+      {
+        "Hotel Name": "Casa Fuster",
+        "Distance to Place": "2.0 km",
+        "Latitude": 41.3931,
+        "Longitude": 2.1608
+      }
+    ]
+  },
+  {
+    "Place Name": "Milford Sound / Piopiotahi",
+    "Description": "Milford Sound, also known as Piopiotahi, is a world-renowned fjord located in the South Island of New Zealand. The fjord is surrounded by towering peaks and waterfalls, making it one of the most spectacular natural wonders in the world. Visitors can take a cruise or kayak tour of the fjord, admire the stunning scenery, and even spot some of the local wildlife, including dolphins, seals, and penguins. Milford Sound is a must-visit destination for nature lovers and outdoor enthusiasts.",
+    "Ratings": 5.0,
+    "Image": "https://images.unsplash.com/photo-1591640040362-f55d95a6b2bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWlsZm9yZCUyMHNvdW5kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Nature",
+    "Location": "South Island, New Zealand",
+    "Latitude": -44.67,
+    "Longitude": 167.9208,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Milford Sound Lodge",
+        "Distance to Place": "19.0 km",
+        "Latitude": -44.6615,
+        "Longitude": 167.9393
+      },
+      {
+        "Hotel Name": "Mitre Peak Lodge",
+        "Distance to Place": "22.0 km",
+        "Latitude": -44.6788,
+        "Longitude": 167.9948
+      }
+    ]
+  },
+  {
+    "Place Name": "Mahabalipuram",
+    "Description": "Mahabalipuram, also known as Mamallapuram, is a UNESCO World Heritage Site located on the Bay of Bengal in the Indian state of Tamil Nadu. The site is famous for its rock-cut temples and sculptures, which date back to the 7th and 8th centuries AD. Visitors to Mahabalipuram can see the famous Shore Temple, the Five Rathas, and the Arjuna's Penance relief, as well as a variety of other ancient structures and monuments. The site offers a unique opportunity to see ancient Indian architecture and art, and is a popular destination for tourists and history enthusiasts.",
+    "Ratings": 4.7,
+    "Image": "https://images.unsplash.com/photo-1568379132304-690f6b629ba0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8TWFoYWJhbGlwdXJhbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Temple",
+    "Location": "Tamil Nadu, India",
+    "Latitude": 12.6184,
+    "Longitude": 80.1841,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Leela Palace, Chennai",
+        "Distance to Place": "40.0 km",
+        "Latitude": 13.0336,
+        "Longitude": 80.2707
+      },
+      {
+        "Hotel Name": "Taj Fisherman's Cove Resort & Spa, Chennai",
+        "Distance to Place": "35.0 km",
+        "Latitude": 12.7865,
+        "Longitude": 80.2658
+      }
+    ]
+  },
+  {
+    "Place Name": "Kodaikanal",
+    "Description": "Kodaikanal is a hill station in Tamil Nadu, India. Known for its scenic beauty and serene atmosphere, it attracts tourists from all over the world. The town is surrounded by lush green forests and rolling hills, offering breathtaking views of the surrounding landscape. Visitors can explore the many attractions in Kodaikanal, including the Kodaikanal Lake, Coaker's Walk, and the Bryant Park, among others.",
+    "Ratings": 4.7,
+    "Image": "https://images.unsplash.com/photo-1619020933389-e96f49742bce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8a29kYWlrYW5hbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Hill Station",
+    "Location": "Tamil Nadu, India",
+    "Latitude": 10.238,
+    "Longitude": 77.4875,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Carlton, Kodaikanal",
+        "Distance to Place": "3.0 km",
+        "Latitude": 10.2386,
+        "Longitude": 77.4875
+      },
+      {
+        "Hotel Name": "The Kodai Resort",
+        "Distance to Place": "2.5 km",
+        "Latitude": 10.2372,
+        "Longitude": 77.4895
+      }
+    ]
+  },
+  {
+    "Place Name": "Rameshwaram",
+    "Description": "Rameshwaram is a holy city located in the Indian state of Tamil Nadu. It is considered one of the seven holiest places in India and is an important pilgrimage site for Hindus. The city is located on an island and is connected to the mainland by a bridge. Rameshwaram is famous for its temples, including the Ramanatha Swamy Temple and the Jadayu Theertham, as well as its beautiful beaches and scenic views.",
+    "Ratings": 4.8,
+    "Image": "https://images.unsplash.com/photo-1462703704576-e8d0d5887e56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHJhbWVzd2FyYW18ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Religious",
+    "Location": "Rameshwaram, Tamil Nadu, India",
+    "Latitude": 9.2855,
+    "Longitude": 79.3172,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Park Hotels Rameshwaram",
+        "Distance to Place": "2.0 km",
+        "Latitude": 9.2936,
+        "Longitude": 79.3136
+      },
+      {
+        "Hotel Name": "The Accord Rameshwaram",
+        "Distance to Place": "3.0 km",
+        "Latitude": 9.2979,
+        "Longitude": 79.3033
+      }
+    ]
+  },
+  {
+    "Place Name": "Madurai Meenakshi Amman Temple",
+    "Description": "The Madurai Meenakshi Amman Temple is a historic Hindu temple located in Madurai, Tamil Nadu, India. It is dedicated to the Hindu goddess Meenakshi and is one of the most visited tourist destinations in South India. The temple is known for its stunning architectural style, intricate carvings, and colorful paintings, which showcase the rich cultural heritage of the region. Visitors can explore the temple's many halls, shrines, and courtyards, and learn about the fascinating legends and traditions associated with the temple.",
+    "Ratings": 4.7,
+    "Image": "https://images.unsplash.com/photo-1572146462570-2129a547e6dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8TWFkdXJhaSUyME1lZW5ha3NoaSUyMEFtbWFuJTIwVGVtcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Temple",
+    "Location": "Madurai, Tamil Nadu, India",
+    "Latitude": 9.9253,
+    "Longitude": 78.1198,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Gateway Hotel Pasumalai Madurai",
+        "Distance to Place": "3.2 km",
+        "Latitude": 9.9153,
+        "Longitude": 78.1398
+      },
+      {
+        "Hotel Name": "The Madurai Residency",
+        "Distance to Place": "2.7 km",
+        "Latitude": 9.9353,
+        "Longitude": 78.1198
+      }
+    ]
+  },
+  {
+    "Place Name": "Yercaud",
+    "Description": "Yercaud is a hill station located in the Shevaroys range of Tamil Nadu, India. It is known for its scenic beauty, with rolling hills, lush forests, and tranquil lakes. Visitors can explore the various temples, parks, and gardens, such as the Shevaroy Temple, Lady's Seat, and the Botanical Garden. The hill station also offers many adventure activities, such as trekking, boating, and camping. Yercaud is a popular destination for those seeking a peaceful and rejuvenating getaway.",
+    "Ratings": 4.2,
+    "Image": "https://images.unsplash.com/photo-1616161610005-410abc63f712?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8eWVyY2F1ZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Hill Station",
+    "Location": "Tamil Nadu, India",
+    "Latitude": 11.7667,
+    "Longitude": 78.1333,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Yercaud Green Valley Resorts",
+        "Distance to Place": "2.0 km",
+        "Latitude": 11.766,
+        "Longitude": 78.1319
+      },
+      {
+        "Hotel Name": "Grange Resorts Yercaud",
+        "Distance to Place": "3.5 km",
+        "Latitude": 11.7772,
+        "Longitude": 78.1311
+      }
+    ]
+  },
+  {
+    "Place Name": "Ooty",
+    "Description": "Ooty is a popular hill station located in the Nilgiri Hills of Tamil Nadu, India. Known for its picturesque scenery, Ooty is a popular tourist destination for its tea plantations, natural beauty, and colonial architecture. Visitors can take a stroll through the botanical gardens, visit the government museum, or go boating on the lake. Ooty is also a popular starting point for treks into the surrounding hills.",
+    "Ratings": 4.7,
+    "Image": "https://images.unsplash.com/photo-1559147861-32715680aef8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b290eXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Hill Station",
+    "Location": "Nilgiri Hills, Tamil Nadu, India",
+    "Latitude": 11.4134,
+    "Longitude": 76.6961,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Fern Hill Palace",
+        "Distance to Place": "2.5 km",
+        "Latitude": 11.4023,
+        "Longitude": 76.7051
+      },
+      {
+        "Hotel Name": "Sinclairs Retreat Ooty",
+        "Distance to Place": "3.0 km",
+        "Latitude": 11.4072,
+        "Longitude": 76.6961
+      }
+    ]
+  },
+  {
+    "Place Name": "Tiruchirappalli",
+    "Description": "Tiruchirappalli, also known as Trichy, is a city located in Tamil Nadu, India. It is known for its rich history, with a number of ancient temples and forts. Visitors can explore the Rock Fort Temple, the Sri Ranganathaswamy Temple, and the Jambukeswara Temple. Tiruchirappalli is also famous for its cuisine, with a variety of local dishes to try. The city is also a popular transportation hub, with easy access to other parts of Tamil Nadu.",
+    "Ratings": 4.3,
+    "Image": "https://images.unsplash.com/photo-1599679400256-d4781a10bf2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHRpcnVjaGlyYXBwYWxsaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
+    "Category": "City",
+    "Location": "Tamil Nadu, India",
+    "Latitude": 10.7905,
+    "Longitude": 78.7047,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Grand Gardenia",
+        "Distance to Place": "2.5 km",
+        "Latitude": 10.7901,
+        "Longitude": 78.7059
+      },
+      {
+        "Hotel Name": "Sarovar Portico",
+        "Distance to Place": "3.0 km",
+        "Latitude": 10.7898,
+        "Longitude": 78.7041
+      }
+    ]
+  },
+  {
+    "Place Name": "Kanyakumari",
+    "Description": "Kanyakumari is a coastal town located in the southernmost tip of India. It is known for its serene beaches, historic temples and iconic landmarks such as the Vivekananda Rock Memorial and the Thiruvalluvar Statue. The town is also renowned for its stunning sunrises and sunsets, where one can see the sun dip into the Arabian Sea and Bay of Bengal at the same time. In addition, Kanyakumari is rich in cultural heritage and has a strong influence of Indian mythology.",
+    "Ratings": 4.7,
+    "Image": "https://images.unsplash.com/photo-1572886034137-b77ee990d594?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8a2FueWFrdW1hcml8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60",
+    "Category": "Beach",
+    "Location": "Kanyakumari, Tamil Nadu, India",
+    "Latitude": 8.0794,
+    "Longitude": 77.5499,
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Taj Fisherman's Cove Resort & Spa",
+        "Distance to Place": "7.0 km",
+        "Latitude": 8.274,
+        "Longitude": 77.7153
+      },
+      {
+        "Hotel Name": "The Leela Palace Kanyakumari",
+        "Distance to Place": "8.0 km",
+        "Latitude": 8.0862,
+        "Longitude": 77.5343
+      }
+    ]
+  }
+]

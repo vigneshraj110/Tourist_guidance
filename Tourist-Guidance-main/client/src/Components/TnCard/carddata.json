@@ -1,0 +1,431 @@
+[
+  {
+    "id": 1,
+
+    "Place Name": "Bali Beach",
+
+    "Description": "Bali Beach is a stunning stretch of golden sand and crystal-clear water. Surrounded by lush tropical trees, it's a perfect place to soak up the sun and enjoy a variety of water sports.",
+
+    "Ratings": 4.5,
+
+    "Category": "Beach",
+
+    "Latitude": -8.409518,
+
+    "Longitude": 115.188919,
+    "Location": "Bali,Indore",
+
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Bali Paradise Hotel",
+
+        "Latitude": -8.408618,
+
+        "Longitude": 115.190169,
+
+        "Distance to Place": "0.7km"
+      },
+
+      {
+        "Hotel Name": "Beachfront Hotel & Resort",
+
+        "Latitude": -8.409724,
+
+        "Longitude": 115.187596,
+
+        "Distance to Place": "0.6 km"
+      },
+
+      {
+        "Hotel Name": "The Ocean View Inn",
+
+        "Latitude": -8.408183,
+
+        "Longitude": 115.191358,
+
+        "Distance to Place": "0.9 km"
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+
+    "Place Name": "Eiffel Tower",
+
+    "Description": "The Eiffel Tower is a famous landmark located in Paris, France. Standing at 324 meters tall, it offers breathtaking views of the city and is a must-visit for anyone traveling to Paris.",
+
+    "Ratings": 4.8,
+
+    "Category": "Tower",
+
+    "Latitude": 48.85837,
+
+    "Longitude": 2.294481,
+
+    "Location": "Paris",
+
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Le Meurice Hotel",
+
+        "Latitude": 48.864564,
+
+        "Longitude": 2.327173,
+
+        "Distance to Place": "1.3 km"
+      },
+
+      {
+        "Hotel Name": "Hôtel de Crillon",
+
+        "Latitude": 48.863755,
+
+        "Longitude": 2.317756,
+
+        "Distance to Place": " 0.9 km"
+      },
+
+      {
+        "Hotel Name": "Hotel Le Bristol Paris",
+
+        "Latitude": 48.863879,
+
+        "Longitude": 2.326839,
+
+        "Distance to Place": "1.2 km"
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "Place Name": "Mount Fuji",
+
+    "Description": "Mount Fuji is a stunning active volcano located in Japan. It's the highest mountain in Japan and a symbol of Japanese culture. Climbing to the summit for sunrise is a popular activity among visitors.",
+
+    "Ratings": 4.9,
+
+    "Category": "Hills",
+
+    "Latitude": 35.360556,
+
+    "Longitude": 138.731389,
+    "Location": "California",
+
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Mt. Fuji Grand Hotel",
+
+        "Latitude": 35.358056,
+
+        "Longitude": 138.738333,
+
+        "Distance to Place": "3.5 km"
+      },
+
+      {
+        "Hotel Name": "Mount Fuji View Lodge",
+
+        "Latitude": 35.364167,
+
+        "Longitude": 138.731667,
+
+        "Distance to Place": "1.2 km"
+      },
+
+      {
+        "Hotel Name": "The Summit Inn",
+
+        "Latitude": 35.358333,
+
+        "Longitude": 138.724167,
+
+        "Distance to Place": "2.6 km"
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "Place Name": "The Colosseum",
+
+    "Description": "The Colosseum is an iconic structure located in Rome, Italy. It was built over 2000 years ago and was used to host gladiatorial contests and other public spectacles. Today, it's a popular tourist attraction and a symbol of the Roman Empire.",
+
+    "Ratings": 4.6,
+
+    "Category": "Tower",
+
+    "Latitude": 41.89021,
+
+    "Longitude": 12.49223,
+    "Location": "Rome",
+
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Colosseum Palace Hotel",
+
+        "Latitude": 41.89221,
+
+        "Longitude": 12.48717,
+
+        "Distance to Place": "1.3 km"
+      },
+
+      {
+        "Hotel Name": "Forum View Inn",
+
+        "Latitude": 41.88797,
+
+        "Longitude": 12.49336,
+
+        "Distance to Place": "0.7 km"
+      },
+
+      {
+        "Hotel Name": "Empire Guest House",
+
+        "Latitude": 41.89461,
+
+        "Longitude": 12.48998,
+
+        "Distance to Place": "1.9 km"
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "Place Name": "Mount Everest",
+
+    "Description": "Mount Everest is the highest mountain in the world, located in the Mahalangur range of the Himalayas. The mountain is a popular destination for mountaineers and climbers, who come from all over the world to attempt to reach its summit.",
+
+    "Ratings": 4.9,
+
+    "Category": "Mountain",
+
+    "Latitude": 27.988056,
+
+    "Longitude": 86.925278,
+    "Location": "Nepal",
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Everest Base Camp Hotel",
+
+        "Latitude": 27.987056,
+
+        "Longitude": 86.924278,
+
+        "Distance to Place": 7.0
+      },
+
+      {
+        "Hotel Name": "Khumbu Glacier Hotel",
+
+        "Latitude": 27.986056,
+
+        "Longitude": 86.923278,
+
+        "Distance to Place": 8.0
+      },
+
+      {
+        "Hotel Name": "Lhotse Hotel",
+
+        "Latitude": 27.985056,
+
+        "Longitude": 86.922278,
+
+        "Distance to Place": 9.0
+      }
+    ]
+  },
+
+  {
+    "Place Name": "Sydney Opera House",
+
+    "Description": "The Sydney Opera House is an iconic performing arts center located in Sydney, Australia. The building is famous for its unique architecture and is one of the most recognizable landmarks in Australia.",
+
+    "Ratings": 4.6,
+
+    "Category": "Building",
+
+    "Latitude": -33.8599358,
+
+    "Longitude": 151.2150198,
+    "Location": "Sydney,New York",
+
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "Sydney Harbour Marriott Hotel",
+
+        "Latitude": -33.8619358,
+
+        "Longitude": 151.2170198,
+
+        "Distance to Place": 1.5
+      },
+
+      {
+        "Hotel Name": "The Park Hyatt Sydney",
+
+        "Latitude": -33.8629358,
+
+        "Longitude": 151.2160198,
+
+        "Distance to Place": 2.0
+      },
+
+      {
+        "Hotel Name": "InterContinental Sydney",
+
+        "Latitude": -33.8639358,
+
+        "Longitude": 151.2150198,
+
+        "Distance to Place": 3.0
+      }
+    ]
+  },
+
+  {
+    "Place Name": "Niagara Falls",
+
+    "Description": "Niagara Falls is a group of three waterfalls located on the Niagara River on the border of Ontario, Canada, and New York, United States.",
+
+    "Ratings": 4.7,
+
+    "Category": "Waterfall",
+
+    "Latitude": 43.0844,
+
+    "Longitude": -79.0753,
+    "Location": "North America",
+
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Tower Hotel",
+
+        "Latitude": 43.0834,
+
+        "Longitude": -79.0743,
+
+        "Distance to Place": 1.0
+      },
+
+      {
+        "Hotel Name": "The Oakes Hotel Overlooking the Falls",
+
+        "Latitude": 43.0854,
+
+        "Longitude": -79.0773,
+
+        "Distance to Place": 2.0
+      },
+
+      {
+        "Hotel Name": "Embassy Suites by Hilton Niagara Falls Fallsview",
+
+        "Latitude": 43.0864,
+
+        "Longitude": -79.0783,
+
+        "Distance to Place": 3.0
+      }
+    ]
+  },
+
+  {
+    "Place Name": "The Great Wall of China",
+
+    "Description": "The Great Wall of China is a series of fortifications made of brick, tamped earth, stone, and other materials, generally built along an east-to-west line across the northern borders of China. ",
+
+    "Ratings": 4.9,
+
+    "Category": "Wall",
+
+    "Latitude": 40.4319,
+
+    "Longitude": 116.5704,
+    "Location": "China",
+
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Great Wall Sheraton Hotel",
+
+        "Latitude": 40.4329,
+
+        "Longitude": 116.5714,
+
+        "Distance to Place": 1.0
+      },
+
+      {
+        "Hotel Name": "The Great Wall Hotel",
+
+        "Latitude": 40.4339,
+
+        "Longitude": 116.5724,
+
+        "Distance to Place": 2.0
+      },
+
+      {
+        "Hotel Name": "The Great Wall Marriott Hotel",
+
+        "Latitude": 40.4349,
+
+        "Longitude": 116.5734,
+
+        "Distance to Place": 3.0
+      }
+    ]
+  },
+
+  {
+    "Place Name": "Santorini",
+
+    "Description": "Santorini is a volcanic island in the Cyclades group of the Greek islands. It is located in the Aegean Sea and is known for its stunning white-washed buildings, blue-domed churches, and breathtaking views of the caldera and the Aegean Sea.",
+
+    "Ratings": 4.7,
+
+    "Category": "Island",
+
+    "Latitude": 36.3932,
+
+    "Longitude": 25.4615,
+    "Location": "Greece",
+
+    "Hotels near the Place": [
+      {
+        "Hotel Name": "The Santorini Palace Hotel",
+
+        "Latitude": 36.3942,
+
+        "Longitude": 25.4625,
+
+        "Distance to Place": 1.0
+      },
+
+      {
+        "Hotel Name": "The Aegean Hotel",
+
+        "Latitude": 36.3952,
+
+        "Longitude": 25.4635,
+
+        "Distance to Place": 2.0
+      },
+
+      {
+        "Hotel Name": "The Caldera Hotel",
+
+        "Latitude": 36.3962,
+
+        "Longitude": 25.4645,
+
+        "Distance to Place": 3.0
+      }
+    ]
+  }
+]
